@@ -6,6 +6,6 @@ for i in a:
   elif i.isnumeric():
     c1+=1
 if c1>=1 and c2>=1:
-  print("yes")
+  print("Yes")
 else:
-  print("no")
+  print("No")
