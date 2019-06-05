@@ -4,4 +4,4 @@ a1=[]
 for i in range(len(l)):
 	if(l[i]%2!=0):
 		a1.append(l[i])
-print(a[k-1])
+print(a1[k-1])
