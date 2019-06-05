@@ -1,2 +1,2 @@
-a1=input()
-print(a1.title())
+w1=input()
+print(w1.title())
