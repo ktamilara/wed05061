@@ -1,6 +1,6 @@
-number1=str(input())
-for i in  range(0,len(number1)):
-  if number1[i]!='0' and number1[i]!='1':
+numb1=str(input())
+for x in  range(0,len(numb1)):
+  if numb1[x]!='0' and numb1[x]!='1':
     print("no")
 else:
   print("yes")
